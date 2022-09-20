@@ -1,0 +1,14 @@
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\bin\Debug\net6.0\FFPT_Service.deps.json
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\bin\Debug\net6.0\FFPT_Service.runtimeconfig.json
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\bin\Debug\net6.0\FFPT_Service.dll
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\bin\Debug\net6.0\FFPT_Service.pdb
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\FFPT_Service.csproj.AssemblyReference.cache
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\FFPT_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\FFPT_Service.AssemblyInfoInputs.cache
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\FFPT_Service.AssemblyInfo.cs
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\FFPT_Service.csproj.CoreCompileInputs.cache
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\FFPT_Service.dll
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\refint\FFPT_Service.dll
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\FFPT_Service.pdb
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\FFPT_Service.genruntimeconfig.cache
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Service\obj\Debug\net6.0\ref\FFPT_Service.dll

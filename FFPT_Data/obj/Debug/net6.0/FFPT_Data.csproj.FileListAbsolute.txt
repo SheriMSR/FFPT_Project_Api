@@ -1,0 +1,14 @@
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\bin\Debug\net6.0\FFPT_Data.deps.json
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\bin\Debug\net6.0\FFPT_Data.runtimeconfig.json
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\bin\Debug\net6.0\FFPT_Data.dll
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\bin\Debug\net6.0\FFPT_Data.pdb
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\FFPT_Data.csproj.AssemblyReference.cache
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\FFPT_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\FFPT_Data.AssemblyInfoInputs.cache
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\FFPT_Data.AssemblyInfo.cs
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\FFPT_Data.csproj.CoreCompileInputs.cache
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\FFPT_Data.dll
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\refint\FFPT_Data.dll
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\FFPT_Data.pdb
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\FFPT_Data.genruntimeconfig.cache
+C:\Users\MyTDV\source\repos\FFPT_Project_Api\FFPT_Data\obj\Debug\net6.0\ref\FFPT_Data.dll
